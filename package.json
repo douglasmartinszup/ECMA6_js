@@ -4,5 +4,14 @@
   "main": "index.js",
   "repository": "https://github.com/douglasmartinszup/ECMA6_js.git",
   "author": "douglasmartinszup <douglas.martins@zup.com.br>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1"
+  },
+   "scripts":{
+     "dev":"babel -w ./main.js -o ./bundle.js"
+
+  }
 }
