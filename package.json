@@ -1,0 +1,8 @@
+{
+  "name": "ECMA6_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/douglasmartinszup/ECMA6_js.git",
+  "author": "douglasmartinszup <douglas.martins@zup.com.br>",
+  "license": "MIT"
+}
